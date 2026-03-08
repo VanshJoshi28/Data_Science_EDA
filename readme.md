@@ -107,6 +107,6 @@ EDA helps in identifying trends, distributions, and relationships within the dat
 
 ## Author
 
-**Vansh Joshi**
-B.Tech Computer Science and Engineering
+Vansh Joshi  
+B.Tech CSE  
 Doon University
